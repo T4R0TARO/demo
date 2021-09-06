@@ -16,5 +16,5 @@ function topNavClassToggle() {
 }
 
 // Waits for user click to run function (topNavClassToggle)
-navIcon.addEventListener('click', topNavClassToggle);
+// navIcon.addEventListener('click', topNavClassToggle);
 

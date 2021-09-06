@@ -8,3 +8,7 @@
 - Position
 - Display
 - CSS Foundations 
+
+versionUpdate: 
+-Applied onclick attribute to the mobile menu icon to target topNavClassToggle()
+-Comment out event listenter in script.js
