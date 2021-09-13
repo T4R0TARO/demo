@@ -8,7 +8,9 @@
 - Position
 - Display
 - CSS Foundations 
-
+- Grid
+- Position
+- Border-Box 
 versionUpdate: 
 -Applied onclick attribute to the mobile menu icon to target topNavClassToggle()
 -Comment out event listenter in script.js
