@@ -1,5 +1,5 @@
 # Responsive Navbar Practive
-## HTML CSS JS vanilla 
+## HTML CSS JS vanilla SCSS
 
 ### Subjects and Concepts to work on
 - Events
